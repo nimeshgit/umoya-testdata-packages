@@ -5,11 +5,11 @@
     <version>1.0.0</version>
     <title>HelloWorldCode.ipynb</title>
     <authors>Peeyush</authors>
-    <owners>Tridi</owners>
+    <owners>Rainer</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://localhost:8007/icons/Code.png</iconUrl>
     <description>Hello World Code</description>
-    <tags>Testing,Code</tags>
+    <tags>TestCode,Code</tags>
     <packageTypes>
       <packageType name="Code" />
     </packageTypes>

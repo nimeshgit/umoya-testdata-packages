@@ -5,11 +5,11 @@
     <version>1.0.0</version>
     <title>HelloWorldData.csv</title>
     <authors>Swapnil</authors>
-    <owners>Rainer</owners>
+    <owners>Vinay</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://localhost:8007/icons/Data.png</iconUrl>
     <description>Hello World Data</description>
-    <tags>Testing,Data</tags>
+    <tags>TestData,Data</tags>
     <packageTypes>
       <packageType name="Data" />
     </packageTypes>

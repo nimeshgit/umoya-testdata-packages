@@ -5,11 +5,11 @@
     <version>1.0.0</version>
     <title>HelloWorld.pmml</title>
     <authors>Anil</authors>
-    <owners>Rainer</owners>
+    <owners>Tridi</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://localhost:8007/icons/Model.png</iconUrl>
     <description>Hello World Model</description>
-    <tags>Testing,Model</tags>
+    <tags>TestModel,Model</tags>
     <packageTypes>
       <packageType name="Model" />
     </packageTypes>
