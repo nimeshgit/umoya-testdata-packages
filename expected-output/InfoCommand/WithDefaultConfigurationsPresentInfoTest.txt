@@ -1,10 +1,10 @@
 
 Configuration:
-  Umoya Home 	 : ${UmoyaHome}
-  ZMOD Home 	 : ${ZMODHome}
-  Owner 	 : ${Owner}
-  Version 	 : ${Version}
-  Repo    	 : http://localhost:8007/v3/index.json, You can update this with remote action.
-  AccessKey	 : NoAPIKey
-  IsDebugging	 : False
+  ZMOD Home      : ${ZMODHome}
+  Umoya Home     : ${UmoyaHome}
+  Owner          : ${Owner}
+  Version        : ${Version}
+  Repo           : http://localhost:8007/v3/index.json, You can update this with CLI umoya info -r <repo url>.
+  AccessKey      : NoAPIKey
+  IsDebugging    : False
 
