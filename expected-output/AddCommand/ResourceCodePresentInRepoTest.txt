@@ -2,5 +2,5 @@
 > Started downloading resource from Repo.
 > Resource is downloaded.
 > Resource (and its dependencies) are resolved and added into ZMOD.
-> Resource cache cleared.
+> Cleared resource cache.
 > UMOYA action <add> successfully performed.
